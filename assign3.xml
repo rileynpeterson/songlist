@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="songstyles.css"?>
+<Artists>
+    <Heading> My List of Songs</Heading>
+    <Song>
+        <Artist>Juice WRLD</Artist>
+        <Title>Armed And Dangerous</Title>
+        <Genre>Hip Hop</Genre>
+        <ReleaseYear>2018</ReleaseYear>
+    </Song>
+
+    <Song>
+        <Artist>Juice WRLD</Artist>
+        <Title>Bandit</Title>
+        <Genre>Hip Hop</Genre>
+        <ReleaseYear>2019</ReleaseYear>
+    </Song>
+
+    <Song>
+        <Artist>Juice WRLD</Artist>
+        <Title>Lucid Dreams</Title>
+        <Genre>Hip Hop</Genre>
+        <ReleaseYear>2018</ReleaseYear>
+    </Song>
+
+     <Song>
+        <Artist>Luke Combs</Artist>
+        <Title>Beautiful Crazy</Title>
+        <Genre>Country</Genre>
+        <ReleaseYear>2018</ReleaseYear>
+    </Song>
+
+     <Song>
+        <Artist>Luke Combs</Artist>
+        <Title>Beer Never Broke My Heart</Title>
+        <Genre>Country</Genre>
+        <ReleaseYear>2019</ReleaseYear>
+    </Song>
+
+     <Song>
+        <Artist>Bruce Springsteen</Artist>
+        <Title>Born In The USA</Title>
+        <Genre>Rock</Genre>
+        <ReleaseYear>1984</ReleaseYear>
+    </Song>
+
+    <Song>
+        <Artist>Bruce Springsteen</Artist>
+        <Title>Rosalita</Title>
+        <Genre>Rock</Genre>
+        <ReleaseYear>1973</ReleaseYear>
+    </Song>
+
+    <Song>
+        <Artist>Bruce Springsteen</Artist>
+        <Title>Born To Run</Title>
+        <Genre>Rock</Genre>
+        <ReleaseYear>1975</ReleaseYear>
+    </Song>
+
+    <Song>
+        <Artist>Bridgit Mendler</Artist>
+        <Title>Ready Or Not</Title>
+        <Genre>Pop</Genre>
+        <ReleaseYear>2012</ReleaseYear>
+    </Song>
+
+    <Song>
+        <Artist>Bridgit Mendler</Artist>
+        <Title>Hurricane</Title>
+        <Genre>Pop</Genre>
+        <ReleaseYear>2012</ReleaseYear>
+    </Song>
+
+</Artists>
